@@ -1,0 +1,1 @@
+API REST desenvolvida com Node.js e Express.js, utilizando MongoDB como banco de dados NoSQL e Mongoose para modelagem, validação e manipulação dos dados. O projeto implementa operações CRUD (Create, Read, Update e Delete), seguindo a arquitetura baseada em rotas, controllers e models, com respostas em formato JSON.
